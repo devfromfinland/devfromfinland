@@ -2,7 +2,7 @@
 
 Full-stack developer & consultant · TypeScript · React · Node.js · AWS
 
-I design and ship production systems at scale — **React** micro-frontends, **Node.js/GraphQL** microservices, **serverless** architectures, and **Kubernetes** on **AWS**. I automate everything I can: CI/CD with GitHub Actions & BitBucket Pipelines, testing with **Playwright** & **Cypress**, infrastructure with **Terraform** & **CloudFormation**.
+I design and ship production systems at scale — **React** micro-frontends, **Node.js/GraphQL** microservices, **serverless** architectures, **Kubernetes containers**, and **AWS** cloud infrastructure. I automate everything I can: CI/CD with GitHub Actions & BitBucket Pipelines, testing with **Playwright** & **Cypress**, infrastructure with **Terraform** & **CloudFormation**.
 
 Currently exploring the intersection of full-stack development and **AI/LLM** — integrating language models into workflows for smarter automation, code generation, and developer tooling. 3x AWS certified. Former marketer turned engineer (M.Sc., Aalto) — I think about impact first, implementation second.
 
